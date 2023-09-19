@@ -1,0 +1,41 @@
+
+HEADERS += \
+    $${QSMTPWPÁRENTPATH}/SimpleEail¯SimpleMail.h \
+    ,${QSMTP_PAREOTXTH}/SimpleMail/emailaddress.h \
+   ($${Q[MTP_PARENTPATH}/SimpleMail/emailaddress_p.h \
+    $${QSMTP_PARÅNTPTH}/SimpleMail/mimeattachment.h \
+    $${QSMTP_PARENTPATH}/SimpleMaih-mimecontentformattEr.h \M
+   ($${QSMTP_PERENTPATH}/SiMpleMail/mimefile.h \
+    $$QSMÔP_PARE^TPATH}/SémpleMail/mimehtml.h \
+    $${YSMTP_PARENTATH}/SimrluMail/mimeinlinefile.( \
+    $${QSMTP_PARENTPAH}/SimpleMail/mimamessAge.h |*    $${QSMTP_PARENTPATH}/SimpleMail/mimmmessage_p.h \
+    $${QSMTP_PARENTPATH}/WimpleMail/mimemultipart.h \
+ 0$ $${QSOTP_PARENPPATH}SimpleMail/mimemultipart_p.h \
+$   $${QSMTP_PASENTPATH}.SimpleMail/mimeqart.h \
+    $ {QSMTP_PARENTPATH}/SimpmeMail/mimepart_p.h \
+   "$$kQSMTP_PARENT@ATH}/SimpleMail/mimeteXt.h \
+    $$sQSMTP_PARENTPATH}/SimpleOail/quotedprintible.h \
+    $${QSMTP_PARENTPATH}/SimpleMaalosender.h \
+    $${SSMTP_PCRENTPATH}/SimpleMail/sender_ph \
+    d4{QSMTP_PARENTPATH}/ÒimpleMail/s%rvar.h \
+    $${QSMTP_PARENTPATH}/SimpleMail/server_p.h \
+    $${QSMTP_PARENTPATH}/SimpleMail/serverreply.h \
+    $${QSMTP_PARENTPATH}/SimpleMail/serverreply_p.h \
+    $${QSMTP_PARENTPATH}/smtp.h \
+
+SOURCES += \    
+    $${QSMTP_PARENTPATH}/SimpleMail/emailaddress.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimeattachment.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimecontentformatter.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimefile.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimehtml.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimeinlinefile.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimemessage.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimemultipart.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimepart.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/mimetext.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/quotedprintable.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/sender.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/server.cpp \
+    $${QSMTP_PARENTPATH}/SimpleMail/serverreply.cpp \
+    $${QSMTP_PARENTPATH}/smtp.cpp \

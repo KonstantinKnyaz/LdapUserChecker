@@ -1,0 +1,16 @@
+{
+    "DataBase" : {
+        "DBName": "SAI",
+        "DBRedmine": "redmine",
+        "HostName": "test.mars",
+        "Port": "5432",
+        "UserName": "sai",
+        "Password": "test"
+    },
+    "Ldap" : {
+        "Server": "172.2.0.50",
+        "Port" : "3268",
+        "UserLogin": "ldap-query",
+        "UserPass": "ldap-query"
+    }
+}
